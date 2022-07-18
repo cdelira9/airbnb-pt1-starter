@@ -86,4 +86,13 @@ describe("Booking", () => {
       expect(bookings).toHaveLength(0)
     })
   })
+  // describe("Test createBooking",() => {
+  //   test("Can create a new booking with valid params", async() => {
+  //     const user = { username: "jlo" }
+  //     const listingId = testListingIds[0]
+  //     const listing = await Listing.fetchListingById(listingId)
+
+  //     const createBooking =
+  //   })
+  })
 })
